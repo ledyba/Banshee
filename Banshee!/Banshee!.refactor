@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE refactor PUBLIC "-//Borland Software Corporation//Refactor 1.0//EN" "http://www.borland.com/devsupport/jbuilder/dtds/refactor_1_0.dtd">
+
+<refactor>
+  <rename-package id="7AP0YYQK1A4FD3KQD04RPKH0" creation-time="Thu Jul 19 01:41:40.203 JST 2007">
+    <old-package-name>nicoproxy.net</old-package-name>
+    <new-package-name>pproxy.net</new-package-name>
+  </rename-package>
+</refactor>
+

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--JBuilder XML Project-->
+<project>
+<property category="debug.0" name="SmartStepRedefineClasses" value="0"/>
+<property category="debug.0" name="SmartStepSkipStaticInitializers" value="0"/>
+<property category="debug.0" name="SmartStepSkipSynthetics" value="0"/>
+<property category="generalFormatting" name="baseCodeStyle" value="java/Java Standard.codestyle"/>
+<property category="generalFormatting2" name="blockIndent" value="4"/>
+<property category="generalFormatting2" name="continuationIndent" value="8"/>
+<property category="generalFormatting2" name="overrideBasicFormatting" value="1"/>
+<property category="javaFormatting" name="alignMultilineAssign" value="1"/>
+<property category="javaFormatting" name="arrayInitDataOnNewLine" value="0"/>
+<property category="javaFormatting" name="blankLinesAfterClass" value="2"/>
+<property category="javaFormatting" name="catchOnNewLine" value="0"/>
+<property category="javaFormatting" name="elseOnNewLine" value="0"/>
+<property category="javaFormatting" name="extendsOnNewLine" value="0"/>
+<property category="javaFormatting" name="finallyOnNewLine" value="0"/>
+<property category="javaFormatting" name="implementsOnNewLine" value="0"/>
+<property category="javaFormatting" name="indentCase" value="0"/>
+<property category="javaFormatting" name="packagePrefixGroups" value="java;BLANK_LINE;javax;BLANK_LINE;(*)"/>
+<property category="javaFormatting" name="packageThreshold" value="2"/>
+<property category="javaFormatting" name="preservedBlankLinesInDecl" value="2"/>
+<property category="javaFormatting" name="spaceBeforeLparen" value="0"/>
+<property category="javaFormatting" name="whileOnNewLine" value="0"/>
+<property category="javadoc" name="custom.tags.1" value="todo;a;To Do:"/>
+<property category="runtime" name="DefaultConfiguration" value="-1"/>
+<property category="runtime.0" name="BuildTargetOnRun" value="com.borland.jbuilder.build.ProjectBuilder$ProjectBuildAction;make"/>
+<property category="runtime.0" name="ConfigurationName" value="Untitled 実行時設定"/>
+<property category="runtime.0" name="RunnableType" value="com.borland.jbuilder.runtime.ApplicationRunner"/>
+<property category="runtime.0" name="application.class" value="banshee.Prompt"/>
+<property category="serverservices" name="disabled.services" value="jdatastore"/>
+<property category="serverservices" name="single.server.name" value=""/>
+<property category="sys" name="AuthorLabel" value="@author"/>
+<property category="sys" name="BackupPath" value="bak"/>
+<property category="sys" name="CheckStable" value="1"/>
+<property category="sys" name="Company" value=""/>
+<property category="sys" name="CompanyLabel" value="\u4f1a\u793e\u540d:"/>
+<property category="sys" name="Copyright" value="Copyright (c) 2007 PSI"/>
+<property category="sys" name="CopyrightLabel" value="\u8457\u4f5c\u6a29:"/>
+<property category="sys" name="DefaultPath" value="src"/>
+<property category="sys" name="Description" value="\u30a2\u30ea\u30a2\u304b\u308f\u3044\u3044\u3088\u30a2\u30ea\u30a2"/>
+<property category="sys" name="DescriptionLabel" value="\u8aac\u660e:"/>
+<property category="sys" name="DocPath" value="doc"/>
+<property category="sys" name="ExcludeClassEnabled" value="0"/>
+<property category="sys" name="IncludeTestPath" value="1"/>
+<property category="sys" name="InstanceVisibility" value="2"/>
+<property category="sys" name="JDK" value="java version 1.5.0_03-b07"/>
+<property category="sys" name="JvmVersion" value="1.5"/>
+<property category="sys" name="LastTag" value="0"/>
+<property category="sys" name="Libraries" value=""/>
+<property category="sys" name="MakeStable" value="0"/>
+<property category="sys" name="OutPath" value="classes"/>
+<property category="sys" name="SourcePath" value="src;test"/>
+<property category="sys" name="SourceVersion" value="1.5"/>
+<property category="sys" name="TestPath" value="test"/>
+<property category="sys" name="Title" value="\u30cb\u30b3\u30cb\u30b3\u52d5\u753b\u30ad\u30e3\u30c3\u30b7\u30e5\u30d7\u30ed\u30ad\u30b7\u300c\u3070\u3093\u3057\u30fc\uff01\u300d"/>
+<property category="sys" name="TitleLabel" value="\u30bf\u30a4\u30c8\u30eb:"/>
+<property category="sys" name="Version" value="1.0"/>
+<property category="sys" name="VersionLabel" value="@version"/>
+<property category="sys" name="WorkingDirectory" value="."/>
+<node name="Application" type="Archive">
+<property category="archiving" name="archiverClass" value="com.borland.jbuilder.wizard.archive.ApplicationArchiver"/>
+<property category="archiving" name="contentRules.1" value="I:**/*.*"/>
+<property category="archiving" name="manifestMainClass" value="banshee.Prompt"/>
+<property category="archiving" name="targetPath" value="F%|/Program Files/TubePlayer/NicoCache.jar"/>
+<property category="archiving" name="usingRules" value="1"/>
+</node>
+<node name="Banshee!" type="Archive">
+<property category="archiving" name="archiverClass" value="com.borland.jbuilder.wizard.archive.ApplicationArchiver"/>
+<property category="archiving" name="contentRules.1" value="I:**/*.*"/>
+<property category="archiving" name="manifestMainClass" value="banshee.Prompt"/>
+<property category="archiving" name="obfuscator" value="RetroGuard for J2ME"/>
+<property category="archiving" name="targetPath" value="D%|/prog/Java/Banshee!/Banshee!.jar"/>
+<property category="archiving" name="usingRules" value="1"/>
+</node>
+</project>
