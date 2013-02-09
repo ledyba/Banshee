@@ -26,4 +26,8 @@ NicoCache
 ====
 その後NicoCacheも進化したので、開発は終了して、[さきゅばす](http://saccubus.sourceforge.jp/)だけに専念してました。
 
+License
+====
+Licensed under GPL v3 or later.
+
 
